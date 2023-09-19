@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: fc5a69f93fa54de6bc023c6aef420cee
+timeCreated: 1695161713
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: myTexture2dthucuoi10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -100
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0, y: 1}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: myTexture2dthucuoi10
+      rect:
+        serializedVersion: 2
+        x: 26.02675
+        y: 42.07612
+        width: 128.9603
+        height: 395.8478
+      alignment: 9
+      pivot: {x: -0.2018198, y: 1.106294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -64.50692, y: 141}
+      - {x: -64.50692, y: 174}
+      - {x: -41.50692, y: 122}
+    - - {x: -53.50692, y: 190}
+      - {x: -41.50692, y: 122}
+      - {x: -64.50692, y: 174}
+    - - {x: -25.50692, y: 198}
+      - {x: -41.50692, y: 122}
+      - {x: -53.50692, y: 190}
+    - - {x: 1.49308, y: 122}
+      - {x: -41.50692, y: 122}
+      - {x: -25.50692, y: 198}
+    - - {x: -4.50692, y: 198}
+      - {x: 1.49308, y: 122}
+      - {x: -25.50692, y: 198}
+    - - {x: 38.49308, y: 171}
+      - {x: 1.49308, y: 122}
+      - {x: -4.50692, y: 198}
+    - - {x: 16.49308, y: 132}
+      - {x: 1.49308, y: 122}
+      - {x: 38.49308, y: 171}
+    - - {x: 38.49308, y: 161}
+      - {x: 16.49308, y: 132}
+      - {x: 38.49308, y: 171}
+    - - {x: -63.50692, y: -10}
+      - {x: -63.50692, y: 19}
+      - {x: -53.50692, y: -36}
+    - - {x: -34.50692, y: 38}
+      - {x: -53.50692, y: -36}
+      - {x: -63.50692, y: 19}
+    - - {x: -37.50692, y: -38}
+      - {x: -53.50692, y: -36}
+      - {x: -34.50692, y: 38}
+    - - {x: 0.4930801, y: -38}
+      - {x: -37.50692, y: -38}
+      - {x: -34.50692, y: 38}
+    - - {x: 19.49308, y: 38}
+      - {x: 0.4930801, y: -38}
+      - {x: -34.50692, y: 38}
+    - - {x: 24.49308, y: -31}
+      - {x: 0.4930801, y: -38}
+      - {x: 19.49308, y: 38}
+    - - {x: 54.49308, y: 13}
+      - {x: 24.49308, y: -31}
+      - {x: 19.49308, y: 38}
+    - - {x: 54.49308, y: -6}
+      - {x: 24.49308, y: -31}
+      - {x: 54.49308, y: 13}
+    - - {x: -64.50692, y: -189}
+      - {x: -64.50692, y: -145}
+      - {x: -34.50692, y: -198}
+    - - {x: -32.50692, y: -122}
+      - {x: -34.50692, y: -198}
+      - {x: -64.50692, y: -145}
+    - - {x: 22.49308, y: -198}
+      - {x: -34.50692, y: -198}
+      - {x: -32.50692, y: -122}
+    - - {x: 6.49308, y: -122}
+      - {x: 22.49308, y: -198}
+      - {x: -32.50692, y: -122}
+    - - {x: 64.49308, y: -144}
+      - {x: 22.49308, y: -198}
+      - {x: 6.49308, y: -122}
+    - - {x: 52.49308, y: -186}
+      - {x: 22.49308, y: -198}
+      - {x: 64.49308, y: -144}
+    - - {x: 64.49308, y: -156}
+      - {x: 52.49308, y: -186}
+      - {x: 64.49308, y: -144}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

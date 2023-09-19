@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fb255b90b2d64856861f4fb7e0267ade
+timeCreated: 1695161727
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "chelthm"
+  fontNames:
+  - UTM Nokia Standard
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

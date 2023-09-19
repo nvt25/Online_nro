@@ -1,0 +1,9 @@
+﻿Client/Source_Unity/Logs
+Client/Source_Unity/Library
+Client/Source_Unity/Temp
+Client/Source_Unity/UserSettings
+Client/Source_Unity/Resources
+*.vsconfig
+*.csproj
+*.sln
+Client/Source_Unity/obj

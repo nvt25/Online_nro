@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 705bb1a084d641caa61c81509b2b277c
+timeCreated: 1695161710
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: myTexture2dmaybay3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -100
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0, y: 1}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: myTexture2dmaybay3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 292
+        height: 240
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -107, y: -109}
+      - {x: -101, y: -91}
+      - {x: -99, y: -106}
+    - - {x: -99, y: -96}
+      - {x: -99, y: -106}
+      - {x: -101, y: -91}
+    - - {x: -53, y: -109}
+      - {x: -44, y: -98}
+      - {x: -41, y: -105}
+    - - {x: -146, y: -73}
+      - {x: -146, y: 103}
+      - {x: -107, y: -109}
+    - - {x: -98, y: 120}
+      - {x: -107, y: -109}
+      - {x: -146, y: 103}
+    - - {x: -101, y: -91}
+      - {x: -107, y: -109}
+      - {x: -98, y: 120}
+    - - {x: -53, y: -109}
+      - {x: -101, y: -91}
+      - {x: -98, y: 120}
+    - - {x: 13, y: 120}
+      - {x: -53, y: -109}
+      - {x: -98, y: 120}
+    - - {x: -44, y: -98}
+      - {x: -53, y: -109}
+      - {x: 13, y: 120}
+    - - {x: -15, y: -120}
+      - {x: -44, y: -98}
+      - {x: 13, y: 120}
+    - - {x: 25, y: -120}
+      - {x: -15, y: -120}
+      - {x: 13, y: 120}
+    - - {x: 22, y: 108}
+      - {x: 25, y: -120}
+      - {x: 13, y: 120}
+    - - {x: 126, y: 13}
+      - {x: 25, y: -120}
+      - {x: 22, y: 108}
+    - - {x: 66, y: -102}
+      - {x: 25, y: -120}
+      - {x: 126, y: 13}
+    - - {x: 97, y: -120}
+      - {x: 66, y: -102}
+      - {x: 126, y: 13}
+    - - {x: 130, y: -120}
+      - {x: 97, y: -120}
+      - {x: 126, y: 13}
+    - - {x: 146, y: -33}
+      - {x: 130, y: -120}
+      - {x: 126, y: 13}
+    - - {x: 146, y: -102}
+      - {x: 130, y: -120}
+      - {x: 146, y: -33}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

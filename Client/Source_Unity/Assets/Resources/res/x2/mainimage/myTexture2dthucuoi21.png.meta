@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: e3cd751df9644706b1e2290200fdee16
+timeCreated: 1695161715
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: myTexture2dthucuoi21
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 0
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0, y: 1}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: myTexture2dthucuoi21
+      rect:
+        serializedVersion: 2
+        x: 20.07612
+        y: 18.02675
+        width: 50.89713
+        height: 217.8971
+      alignment: 9
+      pivot: {x: -0.394445, y: 1.018707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -25.52469, y: 88.02469}
+      - {x: -25.52469, y: 97.02469}
+      - {x: -18.52469, y: 71.02469}
+    - - {x: -20.52469, y: 109.0247}
+      - {x: -18.52469, y: 71.02469}
+      - {x: -25.52469, y: 97.02469}
+    - - {x: 9.475311, y: 109.0247}
+      - {x: -18.52469, y: 71.02469}
+      - {x: -20.52469, y: 109.0247}
+    - - {x: -12.52469, y: 69.02469}
+      - {x: -18.52469, y: 71.02469}
+      - {x: 9.475311, y: 109.0247}
+    - - {x: -1.524689, y: 69.02469}
+      - {x: -12.52469, y: 69.02469}
+      - {x: 9.475311, y: 109.0247}
+    - - {x: 9.475311, y: 77.02469}
+      - {x: -1.524689, y: 69.02469}
+      - {x: 9.475311, y: 109.0247}
+    - - {x: -23.52469, y: -7.975311}
+      - {x: -23.52469, y: 12.02469}
+      - {x: -19.52469, y: -10.97531}
+    - - {x: -13.52469, y: 15.02469}
+      - {x: -19.52469, y: -10.97531}
+      - {x: -23.52469, y: 12.02469}
+    - - {x: 0.4753113, y: -10.97531}
+      - {x: -19.52469, y: -10.97531}
+      - {x: -13.52469, y: 15.02469}
+    - - {x: -5.524689, y: 15.02469}
+      - {x: 0.4753113, y: -10.97531}
+      - {x: -13.52469, y: 15.02469}
+    - - {x: 8.475311, y: 12.02469}
+      - {x: 0.4753113, y: -10.97531}
+      - {x: -5.524689, y: 15.02469}
+    - - {x: 9.475311, y: -0.9753113}
+      - {x: 0.4753113, y: -10.97531}
+      - {x: 8.475311, y: 12.02469}
+    - - {x: 9.475311, y: 11.02469}
+      - {x: 9.475311, y: -0.9753113}
+      - {x: 8.475311, y: 12.02469}
+    - - {x: -19.52469, y: -91.97531}
+      - {x: -19.52469, y: -84.97531}
+      - {x: -6.524689, y: -108.9753}
+    - - {x: -14.52469, y: -80.97531}
+      - {x: -6.524689, y: -108.9753}
+      - {x: -19.52469, y: -84.97531}
+    - - {x: 0.4753113, y: -80.97531}
+      - {x: -6.524689, y: -108.9753}
+      - {x: -14.52469, y: -80.97531}
+    - - {x: 5.475311, y: -108.9753}
+      - {x: -6.524689, y: -108.9753}
+      - {x: 0.4753113, y: -80.97531}
+    - - {x: 23.47531, y: -85.97531}
+      - {x: 5.475311, y: -108.9753}
+      - {x: 0.4753113, y: -80.97531}
+    - - {x: 25.47531, y: -99.97531}
+      - {x: 5.475311, y: -108.9753}
+      - {x: 23.47531, y: -85.97531}
+    - - {x: 25.47531, y: -90.97531}
+      - {x: 25.47531, y: -99.97531}
+      - {x: 23.47531, y: -85.97531}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: caef7c03536048029137b304757ad1f4
+timeCreated: 1695161727
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 19
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "barmeneb"
+  fontNames:
+  - Barmeno-ExtraBold
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

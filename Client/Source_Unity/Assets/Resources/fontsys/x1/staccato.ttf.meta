@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d3d36c0809e64ee2a5bb0bfc80bdd32d
+timeCreated: 1695161727
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 13
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "staccato"
+  fontNames:
+  - Staccato
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

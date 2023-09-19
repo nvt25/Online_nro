@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e2bbf118ed704a51bd35ac09ec599b0e
+timeCreated: 1695161727
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 21
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "normalFont1"
+  fontNames:
+  - UTM Nokia Standard
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

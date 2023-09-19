@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 6984ee324e744c038cda42e762a172e3
+timeCreated: 1695161725
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: myTexture2dthucuoi11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 0
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0, y: 1}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: myTexture2dthucuoi11
+      rect:
+        serializedVersion: 2
+        x: 12.02675
+        y: 20.01291
+        width: 66.89713
+        height: 199.9603
+      alignment: 9
+      pivot: {x: -0.1797798, y: 1.100154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -33.47532, y: 60.00692}
+      - {x: -33.47532, y: 86.00692}
+      - {x: 16.52468, y: 60.00692}
+    - - {x: -25.47532, y: 97.00692}
+      - {x: 16.52468, y: 60.00692}
+      - {x: -33.47532, y: 86.00692}
+    - - {x: -17.47532, y: 100.0069}
+      - {x: 16.52468, y: 60.00692}
+      - {x: -25.47532, y: 97.00692}
+    - - {x: 4.524681, y: 100.0069}
+      - {x: 16.52468, y: 60.00692}
+      - {x: -17.47532, y: 100.0069}
+    - - {x: 20.52468, y: 85.00692}
+      - {x: 16.52468, y: 60.00692}
+      - {x: 4.524681, y: 100.0069}
+    - - {x: 20.52468, y: 69.00692}
+      - {x: 16.52468, y: 60.00692}
+      - {x: 20.52468, y: 85.00692}
+    - - {x: -33.47532, y: -15.99308}
+      - {x: -33.47532, y: 7.00692}
+      - {x: -26.47532, y: -19.99308}
+    - - {x: -25.47532, y: 20.00692}
+      - {x: -26.47532, y: -19.99308}
+      - {x: -33.47532, y: 7.00692}
+    - - {x: 0.5246811, y: -19.99308}
+      - {x: -26.47532, y: -19.99308}
+      - {x: -25.47532, y: 20.00692}
+    - - {x: 7.524681, y: 20.00692}
+      - {x: 0.5246811, y: -19.99308}
+      - {x: -25.47532, y: 20.00692}
+    - - {x: 12.52468, y: -17.99308}
+      - {x: 0.5246811, y: -19.99308}
+      - {x: 7.524681, y: 20.00692}
+    - - {x: 27.52468, y: 6.00692}
+      - {x: 12.52468, y: -17.99308}
+      - {x: 7.524681, y: 20.00692}
+    - - {x: 27.52468, y: -4.99308}
+      - {x: 12.52468, y: -17.99308}
+      - {x: 27.52468, y: 6.00692}
+    - - {x: -32.47532, y: -89.99308}
+      - {x: -32.47532, y: -71.99308}
+      - {x: -29.47532, y: -99.99308}
+    - - {x: -15.47532, y: -59.99308}
+      - {x: -29.47532, y: -99.99308}
+      - {x: -32.47532, y: -71.99308}
+    - - {x: 26.52468, y: -99.99308}
+      - {x: -29.47532, y: -99.99308}
+      - {x: -15.47532, y: -59.99308}
+    - - {x: 4.524681, y: -59.99308}
+      - {x: 26.52468, y: -99.99308}
+      - {x: -15.47532, y: -59.99308}
+    - - {x: 25.52468, y: -63.99308}
+      - {x: 26.52468, y: -99.99308}
+      - {x: 4.524681, y: -59.99308}
+    - - {x: 33.52468, y: -72.99308}
+      - {x: 26.52468, y: -99.99308}
+      - {x: 25.52468, y: -63.99308}
+    - - {x: 33.52468, y: -87.99308}
+      - {x: 26.52468, y: -99.99308}
+      - {x: 33.52468, y: -72.99308}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

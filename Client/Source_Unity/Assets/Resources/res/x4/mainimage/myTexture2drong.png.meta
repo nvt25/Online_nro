@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 53b3388be01a4af6b2d476c174f94050
+timeCreated: 1695161722
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: myTexture2drong
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -100
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0, y: 1}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: myTexture2drong
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38.02675
+        width: 240
+        height: 681.9733
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -120, y: 206.9866}
+      - {x: -120, y: 270.9866}
+      - {x: 18, y: 162.9866}
+    - - {x: -53, y: 340.9866}
+      - {x: 18, y: 162.9866}
+      - {x: -120, y: 270.9866}
+    - - {x: 110, y: 340.9866}
+      - {x: 18, y: 162.9866}
+      - {x: -53, y: 340.9866}
+    - - {x: 113, y: 162.9866}
+      - {x: 18, y: 162.9866}
+      - {x: 110, y: 340.9866}
+    - - {x: 113, y: 325.9866}
+      - {x: 113, y: 162.9866}
+      - {x: 110, y: 340.9866}
+    - - {x: -120, y: -39.01337}
+      - {x: -120, y: 45.98663}
+      - {x: -34, y: -73.01337}
+    - - {x: -66, y: 95.98663}
+      - {x: -34, y: -73.01337}
+      - {x: -120, y: 45.98663}
+    - - {x: 11, y: 95.98663}
+      - {x: -34, y: -73.01337}
+      - {x: -66, y: 95.98663}
+    - - {x: 77, y: -73.01337}
+      - {x: -34, y: -73.01337}
+      - {x: 11, y: 95.98663}
+    - - {x: 120, y: -20.01337}
+      - {x: 77, y: -73.01337}
+      - {x: 11, y: 95.98663}
+    - - {x: 120, y: -43.01337}
+      - {x: 77, y: -73.01337}
+      - {x: 120, y: -20.01337}
+    - - {x: -120, y: -257.0134}
+      - {x: -120, y: -188.0134}
+      - {x: -111, y: -265.0134}
+    - - {x: -79, y: -178.0134}
+      - {x: -111, y: -265.0134}
+      - {x: -120, y: -188.0134}
+    - - {x: -49, y: -333.0134}
+      - {x: -111, y: -265.0134}
+      - {x: -79, y: -178.0134}
+    - - {x: 47, y: -178.0134}
+      - {x: -49, y: -333.0134}
+      - {x: -79, y: -178.0134}
+    - - {x: -25, y: -341.0134}
+      - {x: -49, y: -333.0134}
+      - {x: 47, y: -178.0134}
+    - - {x: 8, y: -341.0134}
+      - {x: -25, y: -341.0134}
+      - {x: 47, y: -178.0134}
+    - - {x: 34, y: -314.0134}
+      - {x: 8, y: -341.0134}
+      - {x: 47, y: -178.0134}
+    - - {x: 39, y: -301.0134}
+      - {x: 34, y: -314.0134}
+      - {x: 47, y: -178.0134}
+    - - {x: 87, y: -285.0134}
+      - {x: 39, y: -301.0134}
+      - {x: 47, y: -178.0134}
+    - - {x: 120, y: -238.0134}
+      - {x: 87, y: -285.0134}
+      - {x: 47, y: -178.0134}
+    - - {x: 120, y: -272.0134}
+      - {x: 87, y: -285.0134}
+      - {x: 120, y: -238.0134}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
