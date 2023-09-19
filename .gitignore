@@ -7,3 +7,4 @@ Client/Source_Unity/Resources
 *.csproj
 *.sln
 Client/Source_Unity/obj
+*.suo
